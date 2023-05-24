@@ -12,9 +12,13 @@ This UI automation project are created using Java language. We will automate the
 
 # Libraries
 JDK 1.8
+
 Selenium 3.141.59
+
 Maven 4.0.0
+
 WebDriverManager 5.0.3 (https://bonigarcia.dev/webdrivermanager/)
+
 Visual Studio Code 1.78.2
 
 # How To Run
